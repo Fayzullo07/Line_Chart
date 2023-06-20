@@ -1,0 +1,36 @@
+{
+    "Home": [
+        "Number of Clicks",
+        "Number of Visitors",
+        "Number of Views",
+        "CTR",
+        "Total Spent"
+    ],
+    "Language": [
+        "Uzbek Language",
+        "Russian Language",
+        "English Language"
+    ],
+    "Navbar": [
+        "Home",
+        "Help",
+        "Logout",
+        "Your Account",
+        "Advertisement",
+        "Survey",
+        "Add"
+    ],
+    "Global": [
+        "Product List",
+        "Statistics",
+        "All",
+        "Products",
+        "Product Name",
+        "Total Spent Amount",
+        "Active",
+        "Under Review",
+        "Inactive",
+        "Latest",
+        "Daily Result"
+    ]
+}

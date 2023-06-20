@@ -1,0 +1,36 @@
+{
+    "Home": [
+        "Clicklar soni",
+        "Ko'ruvchilar soni",
+        "Ko'rgan odamlar soni",
+        "CTR",
+        "Sarflangan summa"
+    ],
+    "Language": [
+        "O'zbek-tili",
+        "Rus-tili",
+        "Ingliz tili"
+    ],
+    "Navbar": [
+        "Asosiy",
+        "Yordam",
+        "Accountdan chiqish",
+        "Sizning Xisobingiz",
+        "Reklama",
+        "So'rovnoma",
+        "qo'shish"
+    ],
+    "Global": [
+        "Mahsulotlar ro'yhati",
+        "Statistika",
+        "Barchasi",
+        "mahsulotlar",
+        "Mahsulot nomi",
+        "Sarflangan pul miqdori",
+        "Faol",
+        "Tekshirilmoqda",
+        "Faol emas",
+        "So'nggi",
+        "kunlik natija"
+    ]
+}
